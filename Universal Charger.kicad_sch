@@ -3284,6 +3284,26 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Yashavanta\n1MS25EC164"
+		(exclude_from_sim no)
+		(at 185.42 170.18 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "70b133de-e15a-495b-bb5c-2d900d70ac2a")
+	)
+	(text "29/10/2026"
+		(exclude_from_sim no)
+		(at 213.36 193.04 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9cba630d-1db9-4ad9-bd6b-a0833af6c54f")
+	)
 	(junction
 		(at 184.15 31.75)
 		(diameter 0)
@@ -4188,7 +4208,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 129.54) (xy 41.91 129.54)
+			(xy 36.83 129.54) (xy 39.37 129.54)
 		)
 		(stroke
 			(width 0)
@@ -4607,7 +4627,7 @@
 		(uuid "7fb49d66-bb8a-4ded-8e99-341ac0e196e1")
 	)
 	(label "VBAT"
-		(at 41.91 129.54 0)
+		(at 39.37 129.54 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7031,7 +7051,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 128.27 69.85 0)
+			(at 128.27 72.39 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
